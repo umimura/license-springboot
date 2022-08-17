@@ -1,0 +1,2 @@
+jndi:
+    driver-class-name: org.postgresql.Driver
